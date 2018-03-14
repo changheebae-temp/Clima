@@ -1,5 +1,8 @@
 # App Demo
-A simple app for getting real-time weather information, baed on iPhone GPS data or typing specific city names.
+A simple app for getting real-time weather information, with iPhone GPS data. (Also, the place can be changed manually by typing specific city names.)
+![SimulatorScreenShot1](https://github.com/changheebae/Clima/READMEImage/SimulatorScreenShot1)
+![SimulatorScreenShot2](https://github.com/changheebae/Clima/READMEImage/SimulatorScreenShot2)
+![SimulatorScreenShot3](https://github.com/changheebae/Clima/READMEImage/SimulatorScreenShot3)
 
 # What I Learned
 - Installing and setting up Cocoapods
